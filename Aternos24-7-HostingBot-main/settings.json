@@ -6,8 +6,8 @@
     "type": "offline"
   },
 "server": {
-    "ip": "JCO-DIODE.ateros.me",
-    "port": 25565,
+    "ip": "JCO-DIODE.aternos.me",
+    "port": 45908,
     "version": "",
     "try-creative": false
   },
